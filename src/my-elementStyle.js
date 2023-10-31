@@ -157,7 +157,7 @@ select{
 .input-conteni{
     margin-bottom: 25px;
     margin-left: 12px;
-    width: 400px;
+    width: 415px;
     height: auto;
     background: white;
     display: flex;
@@ -287,7 +287,8 @@ select{
 
 p {
     font-family: Inter;
-    font-size: 20px;
+    font-size: 18px;
+    margin: 4px 0px 3px 0px;
 }
 
 a p {
@@ -305,6 +306,13 @@ a p {
 
 a p:hover{
     background: #b5b5b5;
+}
+
+.separ {
+    background: #cccccc;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 40px;
 }
 
 `;
